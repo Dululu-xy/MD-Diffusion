@@ -4,6 +4,14 @@ This is a repository for the paper "Diffusion Models for Multidimensional Seismi
 
 The frame and some code are from [Janspiry/Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement).
 
+## Dataset
+All the data used in this paper is from [JintaoLee-Roger/SeismicSuperResolution](https://github.com/JintaoLee-Roger/SeismicSuperResolution).
+
+## Dependencies
+- python 3.7.0
+- torch 1.12.1+cu116
+- numpy 1.21.6
+
 ## Citation
 If you find this work useful in your research, please consider citing:
 
