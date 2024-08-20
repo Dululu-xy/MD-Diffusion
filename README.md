@@ -9,7 +9,7 @@ If you find this work useful in your research, please consider citing:
 
 Plain Text
 ```
-Yuan Xiao, Kewen Li, Yimin Dou, Wentao Li, Zhixuan Yang, and Xinyuan Zhu, (), "Diffusion Models for Multidimensional Seismic Noise Attenuation and Super-Resolution," GEOPHYSICS 0: 1-66.
+Yuan Xiao, Kewen Li, Yimin Dou, Wentao Li, Zhixuan Yang, and Xinyuan Zhu, (2024), "Diffusion Models for Multidimensional Seismic Noise Attenuation and Super-Resolution," GEOPHYSICS 0: 1-66.
 ```
 
 BibTex
