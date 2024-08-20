@@ -7,6 +7,8 @@ The frame and some code are from [Janspiry/Image-Super-Resolution-via-Iterative-
 ## Dataset
 All the data used in this paper is from [JintaoLee-Roger/SeismicSuperResolution](https://github.com/JintaoLee-Roger/SeismicSuperResolution).
 
+## Models
+
 ## Dependencies
 - python 3.7.0
 - torch 1.12.1+cu116
