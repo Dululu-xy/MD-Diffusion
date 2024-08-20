@@ -1,8 +1,6 @@
 # MD Diffusion
 
-[Paper](https://library.seg.org/doi/10.1190/geo2023-0676.1)
-
-This is a repository for the paper "Diffusion Models for Multidimensional Seismic Noise Attenuation and Super-Resolution" (GEOPHYSICS).
+This is a repository for the paper "[Diffusion Models for Multidimensional Seismic Noise Attenuation and Super-Resolution](https://library.seg.org/doi/10.1190/geo2023-0676.1)" (GEOPHYSICS).
 
 The frame and some code are from [Janspiry/Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement).
 
