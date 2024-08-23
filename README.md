@@ -12,6 +12,7 @@ All code is in the
 
 ## Models
 
+## Usage
 
 ## Dependencies
 - python 3.7.0
