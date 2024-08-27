@@ -18,7 +18,6 @@ code
 ## Dependencies
 - python 3.7.0
 - torch 1.12.1+cu116
-- numpy 1.21.6
 
 ## Citation
 If you find this work useful in your research, please consider citing:
