@@ -38,7 +38,7 @@ If you find this work useful in your research, please consider citing:
 
 Plain Text
 ```
-Yuan Xiao, Kewen Li, Yimin Dou, Wentao Li, Zhixuan Yang, and Xinyuan Zhu, (2024), "Diffusion Models for Multidimensional Seismic Noise Attenuation and Super-Resolution," GEOPHYSICS 0: 1-66.
+Yuan Xiao, Kewen Li, Yimin Dou, Wentao Li, Zhixuan Yang, and Xinyuan Zhu, (2024), "Diffusion models for multidimensional seismic noise attenuation and superresolution," GEOPHYSICS 89: V479-V492.
 ```
 
 BibTex
@@ -47,7 +47,7 @@ BibTex
 author = {Xiao, Yuan and Li, Kewen and Dou, Yimin and Li, Wentao and Yang, Zhixuan and Zhu, Xinyuan},
 year = {2024},
 month = {07},
-pages = {1-66},
+pages = {V479-V492},
 title = {Diffusion Models for Multidimensional Seismic Noise Attenuation and Super-Resolution},
 journal = {GEOPHYSICS},
 doi = {10.1190/geo2023-0676.1}
