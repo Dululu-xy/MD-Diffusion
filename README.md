@@ -13,11 +13,11 @@ All the code is [here](https://github.com/Dululu-xy/MD-Diffusion) and is being c
 ## Model Structure
 ![MD Diffusion](https://github.com/user-attachments/assets/718a8196-c694-4821-9b77-e11737545291)
 
-## Results
+## Results on Synthetic Data
 
 ![MD Diffusion synthetic data denoise and superresolution](https://github.com/user-attachments/assets/ddffeed6-6e66-4def-b56e-5f20ec5228fe)
 
-### Application in Fault detection
+## Application in Fault Detection
 
 ![Application in Fault detection](https://github.com/user-attachments/assets/b01123c2-ea6d-4130-b734-d814cb340f1a)
 
