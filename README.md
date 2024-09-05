@@ -17,6 +17,12 @@ All the code is [here](https://github.com/Dululu-xy/MD-Diffusion) and is being c
 
 ![MD Diffusion synthetic data denoise and superresolution](https://github.com/user-attachments/assets/ddffeed6-6e66-4def-b56e-5f20ec5228fe)
 
+### Application in Fault detection
+
+![Application in Fault detection](https://github.com/user-attachments/assets/b01123c2-ea6d-4130-b734-d814cb340f1a)
+
+![Application in Fault detection result](https://github.com/user-attachments/assets/1b0a4dbc-d549-4ba0-b221-d2b11fb1bde5)
+
 ## Pretrained Models
 The pre-trained models can be accessed below. Please select the model you need for download.
 | Steps                             | Platform                                                     | 
