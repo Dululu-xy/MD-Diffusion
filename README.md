@@ -17,9 +17,17 @@ All the code is [here](https://github.com/Dululu-xy/MD-Diffusion) and is being c
 
 ![MD Diffusion synthetic data denoise and superresolution](https://github.com/user-attachments/assets/ddffeed6-6e66-4def-b56e-5f20ec5228fe)
 
-## Models
+## Pretrained Models
 The pre-trained models can be accessed below. Please select the model you need for download.
-
+| Steps                             | Platform                                                     | 
+| --------------------------------- | ------------------------------------------------------------ |
+| 200 | [Google Drive](https://drive.google.com)\|[Baidu Yun](https://pan.baidu.com) |  
+| 400 | [Google Drive](https://drive.google.com)\|[Baidu Yun](https://pan.baidu.com) | 
+| 800 | [Google Drive](https://drive.google.com)\|[Baidu Yun](https://pan.baidu.com) | 
+| 1000   | [Google Drive](https://drive.google.com)\|[Baidu Yun](https://pan.baidu.com) |
+| 1200   | [Google Drive](https://drive.google.com)\|[Baidu Yun](https://pan.baidu.com) |
+| 1500   | [Google Drive](https://drive.google.com)\|[Baidu Yun](https://pan.baidu.com) |
+| 2000   | [Google Drive](https://drive.google.com)\|[Baidu Yun](https://pan.baidu.com) |
 
 ## Dependencies
 - python 3.7.0
