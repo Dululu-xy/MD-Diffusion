@@ -8,7 +8,7 @@ The frame and some code are from [Janspiry/Image-Super-Resolution-via-Iterative-
 All the data used in this paper is from [JintaoLee-Roger/SeismicSuperResolution](https://github.com/JintaoLee-Roger/SeismicSuperResolution).
 
 ## Code
-All code is in the
+All the code is [here](https://github.com/Dululu-xy/MD-Diffusion) and is being continuously updated...
 
 ## Model Structure
 ![MD Diffusion](https://github.com/user-attachments/assets/718a8196-c694-4821-9b77-e11737545291)
@@ -18,6 +18,8 @@ All code is in the
 ![MD Diffusion synthetic data denoise and superresolution](https://github.com/user-attachments/assets/ddffeed6-6e66-4def-b56e-5f20ec5228fe)
 
 ## Models
+The pre-trained models can be accessed below. Please select the model you need for download.
+
 
 ## Dependencies
 - python 3.7.0
