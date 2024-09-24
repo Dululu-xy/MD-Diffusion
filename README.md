@@ -57,7 +57,7 @@ BibTex
 @article{article,
 author = {Xiao, Yuan and Li, Kewen and Dou, Yimin and Li, Wentao and Yang, Zhixuan and Zhu, Xinyuan},
 year = {2024},
-month = {07},
+month = {09},
 pages = {V479-V492},
 title = {Diffusion Models for Multidimensional Seismic Noise Attenuation and Super-Resolution},
 journal = {GEOPHYSICS},
