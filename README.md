@@ -26,7 +26,7 @@ All the data used in this paper is from [JintaoLee-Roger/SeismicSuperResolution]
 The pre-trained models can be accessed below. Please select the model you need for download.
 | Steps                             | Platform                                                     | 
 | --------------------------------- | ------------------------------------------------------------ |
-| 1000   | [Google Drive]([https://drive.google.com](https://drive.google.com/drive/folders/1129q4Y5Qf3L82mEvcYTsG-smVGW1hMG-?usp=sharing))\|[Baidu Yun](https://pan.baidu.com/s/1-PTPz9BgI31onesG380lRQ?pwd=d23y) |
+| 1000   | [Google Drive](https://drive.google.com/drive/folders/1129q4Y5Qf3L82mEvcYTsG-smVGW1hMG-?usp=sharing)\|[Baidu Yun](https://pan.baidu.com/s/1-PTPz9BgI31onesG380lRQ?pwd=d23y) |
 
 ## Dependencies
 - python 3.7.0
