@@ -7,9 +7,6 @@ The frame and some code are from [Janspiry/Image-Super-Resolution-via-Iterative-
 ## Dataset
 All the data used in this paper is from [JintaoLee-Roger/SeismicSuperResolution](https://github.com/JintaoLee-Roger/SeismicSuperResolution).
 
-## Code
-All the code is [here](https://github.com/Dululu-xy/MD-Diffusion).
-
 ## Model Structure
 ![MD Diffusion](https://github.com/user-attachments/assets/718a8196-c694-4821-9b77-e11737545291)
 
