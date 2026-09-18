@@ -27,13 +27,7 @@ All the code is [here](https://github.com/Dululu-xy/MD-Diffusion) and is being c
 The pre-trained models can be accessed below. Please select the model you need for download.
 | Steps                             | Platform                                                     | 
 | --------------------------------- | ------------------------------------------------------------ |
-| 200 | [Google Drive](https://drive.google.com)\|[Baidu Yun](https://pan.baidu.com) |  
-| 400 | [Google Drive](https://drive.google.com)\|[Baidu Yun](https://pan.baidu.com) | 
-| 800 | [Google Drive](https://drive.google.com)\|[Baidu Yun](https://pan.baidu.com) | 
-| 1000   | [Google Drive](https://drive.google.com)\|[Baidu Yun](https://pan.baidu.com) |
-| 1200   | [Google Drive](https://drive.google.com)\|[Baidu Yun](https://pan.baidu.com) |
-| 1500   | [Google Drive](https://drive.google.com)\|[Baidu Yun](https://pan.baidu.com) |
-| 2000   | [Google Drive](https://drive.google.com)\|[Baidu Yun](https://pan.baidu.com) |
+| 1000   | [Google Drive]([https://drive.google.com](https://drive.google.com/drive/folders/1129q4Y5Qf3L82mEvcYTsG-smVGW1hMG-?usp=sharing))\|[Baidu Yun](https://pan.baidu.com/s/1-PTPz9BgI31onesG380lRQ?pwd=d23y) |
 
 ## Dependencies
 - python 3.7.0
